@@ -23,7 +23,7 @@ module.exports = {
    PRESENCE: process.env.PRESENCE || "available", // "unavailable", "available", "composing", "recording", "paused"
    CAPTION: process.env.CAPTION || "© Kᴇʀᴍ ᴍᴅ",
    TIME_ZONE: process.env.TIME_ZONE || "Africa/Lagos",
-   ANTILINK_ACTION: process.env.ANTI_LINK || "kick",
+   ANTILINK_ACTION: process.env.ANTI_LINK || "warn",
    BRANCH: "master",
    AUTHOR: process.env.AUTHOR || "L@RSON😪",
    ANTIWORD: process.env.ANTIWORD || "badword1,badword2,badword3",
