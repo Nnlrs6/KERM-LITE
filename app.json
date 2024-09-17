@@ -1,6 +1,6 @@
 {
  "name": "SON-L@PK",
- "logo": "https://telegra.ph/file/3ac47cbad32a86aa12251.jpg",
+ "logo": "https://telegra.ph/file/84c7792f9783a6b98c575.png",
  "success_url": "/",
  "stack": "container",
  "env": {
@@ -12,7 +12,7 @@
   "BOT_INFO": {
    "description": "BOT INFO",
    "required": true,
-   "value": "🌚NINO;L@RS;https://telegra.ph/file/3ac47cbad32a86aa12251.jpg"
+   "value": "🌚NINO;L@RS;https://telegra.ph/file/84c7792f9783a6b98c575.png"
   },
   "SUDO": {
    "description": "SUDO NUMBERS",
