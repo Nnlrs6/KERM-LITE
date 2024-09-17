@@ -1,5 +1,5 @@
 {
-   "name": "FXOP_MD",
+   "name": "LAPK_MD",
    "dockerFile": "Dockerfile",
    "customizations": {
       "vscode": {
