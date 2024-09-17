@@ -10,6 +10,6 @@ services:
     - key: BOT_INFO
       value: Kɢᴛᴇᴄʜ;Kᴇʀᴍ-ʟɪᴛᴇ
     - key: SUDO
-      value: 237656520674
+      value: 22892340066
     - key: ANTILINK
       value: "true"
